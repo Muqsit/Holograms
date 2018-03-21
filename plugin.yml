@@ -1,0 +1,11 @@
+name: Holograms
+api: 3.0.0-ALPHA11
+main: muqsit\holograms\Holograms
+version: 0.0.1
+commands:
+  hologram:
+    aliases: ["hg", "holograms"]
+    permission: holograms.command
+permissions:
+  holograms.command:
+    default: op
