@@ -1,5 +1,5 @@
 name: Holograms
-api: 3.0.0-ALPHA11
+api: 3.0.0-ALPHA12
 main: muqsit\holograms\Holograms
 version: 0.0.1
 commands:
